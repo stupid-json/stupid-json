@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson", "StupidJson\StupidJson\StupidJson.csproj", "{61C973B3-E39C-481E-B4D6-F03516C97D62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson", "src\StupidJson\StupidJson.csproj", "{61C973B3-E39C-481E-B4D6-F03516C97D62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.CodeFixes", "StupidJson\StupidJson.CodeFixes\StupidJson.CodeFixes.csproj", "{D50932E3-96ED-4D07-9604-BEA496C070F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.CodeFixes", "src\StupidJson.CodeFixes\StupidJson.CodeFixes.csproj", "{D50932E3-96ED-4D07-9604-BEA496C070F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.Package", "StupidJson\StupidJson.Package\StupidJson.Package.csproj", "{76274615-1777-40A8-911F-2429961FEC71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.Package", "src\StupidJson.Package\StupidJson.Package.csproj", "{76274615-1777-40A8-911F-2429961FEC71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.Test", "StupidJson\StupidJson.Test\StupidJson.Test.csproj", "{B85DA9F4-6A45-4951-8DBD-6C63DA866164}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.Test", "src\StupidJson.Test\StupidJson.Test.csproj", "{B85DA9F4-6A45-4951-8DBD-6C63DA866164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.Vsix", "StupidJson\StupidJson.Vsix\StupidJson.Vsix.csproj", "{0D84FBFC-8C9B-4273-BCC6-837384E80F0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidJson.Vsix", "src\StupidJson.Vsix\StupidJson.Vsix.csproj", "{0D84FBFC-8C9B-4273-BCC6-837384E80F0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
